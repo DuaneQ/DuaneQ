@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Duane’s sci-fi banner](./ChatGPT Image Jun 13, 2025, 05_22_34 PM.png)
+![Duane’s sci-fi banner](./banner.png)
 
 <h1 align="center">Hi, I'm Duane 👋</h1>
 <h3 align="center">Senior Full-Stack Software Engineer (.NET • React • TypeScript) | Atlanta, GA</h3>
