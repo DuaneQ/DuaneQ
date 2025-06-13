@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-<h1 align="center">Hi, I'm Duane Hodges 👋</h1>
+<h1 align="center">Hi, I'm Duane 👋</h1>
 <h3 align="center">Senior Full-Stack Software Engineer (.NET • React • TypeScript) | Atlanta, GA</h3>
 
 <p align="center">
