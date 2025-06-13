@@ -1,7 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DuaneQ/NextJs-Portfolio/main/public/banner.png" alt="Banner" />
-</p>
 
 <h1 align="center">Hi, I'm Duane Hodges 👋</h1>
 <h3 align="center">Senior Full-Stack Software Engineer (.NET • React • TypeScript) | Atlanta, GA</h3>
